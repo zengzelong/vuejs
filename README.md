@@ -21,5 +21,7 @@ npm dev
 
 # 练习清单
 - [x] 定位功能
-- [ ] v-model
+- [x] v-model
 - [ ] v-on
+
+
